@@ -60,7 +60,7 @@ Make sure you have:
 Clone the repository:
 
 ``` bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Yuvrajsinghz/Rubik-Dice.git
 ```
 
 Move into the project directory:
@@ -85,7 +85,7 @@ flutter run
 
 The Android APK is available through the project's **GitHub Releases**.
 
-**Download:** YOUR_APK_DOWNLOAD_LINK
+**Download:** [Rubik Dice](https://github.com/Yuvrajsinghz/Rubik-Dice/releases/download/v1.0.0/Rubik.Dice.apk)
 
 ## 🧪 Testing
 
