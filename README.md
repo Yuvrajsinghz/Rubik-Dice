@@ -1,4 +1,4 @@
-# 🎲 Rubik Dice
+# 🎲 Rubik Dice 
 
 A clean and minimal dice roller mobile application built with
 **Flutter** and **Dart**.
