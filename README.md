@@ -21,7 +21,7 @@ random result through a smooth and modern interface.
 -   📱 Android APK release available
 -   🧪 Tested on multiple devices/users with positive feedback
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 -   **Flutter**
 -   **Dart**
