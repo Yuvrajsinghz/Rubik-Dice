@@ -7,7 +7,7 @@ Rubik Dice focuses on a simple idea --- tap the dice, roll it, and get a
 random result through a smooth and modern interface.
 
 ## Preview
-
+ 
 <p align="center">
   <img src="assets/images/rubik_dice_preview.png" alt="Rubik Dice Preview" width="700">
 </p>
