@@ -1,7 +1,7 @@
 # 🎲 Rubik Dice  
 
 A clean and minimal dice roller mobile application built with
-**Flutter** and **Dart**. 
+**Flutter** and **Dart**.  
 
 Rubik Dice focuses on a simple idea --- tap the dice, roll it, and get a
 random result through a smooth and modern interface.
